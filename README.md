@@ -138,7 +138,7 @@ demo = gr.Interface(fn=ner,
 demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ## OUTPUT:
-
+![IMAGE12](screenshot.png)
 
 ## RESULT:
 
